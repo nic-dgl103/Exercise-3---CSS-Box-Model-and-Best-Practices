@@ -53,7 +53,7 @@ _See examples of what your finished pages could look like in the repo's "part_2_
   
 ### Step 1: Choose and test a website
 
-Choose any website you like, and try out the two launch tasks below:
+Choose any website you like, and perform the two launch tasks below:
 
 1. Go to https://wave.webaim.org and enter your chosen website's URL in the web address field to check the accessibility of the website. Check out all the accessibility errors and alerts in the Details tab. Take a screenshot and save it in the folder called images in your repo.
 2. In Chrome, on the website's homepage, open the Developer Tools. Go to the Lighthouse tab, leave all settings as they are and click "Analyze page load". Take a screenshot of the results and save it in the folder called images in your repo.
