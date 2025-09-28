@@ -1,4 +1,4 @@
-# Exercise 5: CSS Box Model
+# Exercise 5: CSS Box Model and Best Practices
 
 ## Objectives
 Practice working with the CSS box model to create some typical card layouts. Then strengthen your ability to analyze, think critically, and resolve coding issues and document your analysis in a simple 3 page website. Part 2 of this exercise is intended to help you revise the most important coding you've learnt so far.
