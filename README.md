@@ -1,14 +1,14 @@
 # Exercise 3: CSS Box Model and Best Practices
 
 ## Objectives
-Practice working with the CSS box model to create some typical card layouts. Then strengthen your ability to analyze, think critically, and resolve coding issues and document your analysis in a simple 3 page website. Part 2 of this exercise is intended to help you revise the most important coding you've learnt so far.
+In part 1, practice working with the CSS box model to create some typical card layouts. In part 2, strengthen your ability to analyze, think critically, and resolve coding issues and document your analysis in a simple 3 page website. Part 2 of this exercise is intended to help you revise the most important coding you've learnt so far.
 
 ## Instructions
 
 ### PART 1: Build three cards
 **Tips:**
 * Remember to make regular commits and pushes. **You will lose 30% of your grade if your commits don't document your progress**.
-* Work in the folder called *part_1*. You don't need to edit any of the provided HTML in index.html to complete cards 1 and 2 but you may need to add links to Google Fonts in the head element. You will need to write some HTML for card 3.
+* Work in the folder called *part_1*. You don't need to edit any of the provided HTML in index.html to complete cards 1 and 2 except you may need to add links to Google Fonts in the head element. You will need to write some HTML for card 3.
 * All styles for all 3 cards should be placed in the external stylesheet in the *part_1* folder
 ### Card 1:
    1. Clone your remote exercise repository onto your local machine.
@@ -41,7 +41,7 @@ Write the HTML and the CSS. The visual width of the card should be the same as c
 ## PART 2: Analyze a website and document your findings
 Perform a website performance test, research the results, and write an analysis. Then, build and style a simple 3-page website to showcase your findings. The exercise focuses equally on the quality of your content and of your coding.
 
-_See examples of what your finished pages could look like in the repo's "part_2_examples" folder. Note that the exercise has been modified since these examples were created_
+_See examples of what your finished pages could look like in the repo's "part_2_examples" folder. Note that the exercise has been modified since these examples were created._
 
 **Tips:** 
 - Read all the part 2 instructions before starting.
@@ -61,7 +61,7 @@ Choose any website you like, and perform the two launch tasks below:
 
 ### Step 2: Build a website to document the testing
 
-Create a 3-page website from scratch, no HTML code has been provided. Make sure that your HTML is clean, error-free and **semantic** (don't use any div elements unless you absolutely have to)! Your website will include the following content:
+Create a 3-page website from scratch, no HTML/CSS has been provided. Make sure that your HTML is clean, error-free and **semantic** (don't use any div elements unless you absolutely have to)! Your website will include the following content:
 
 **Page 1: Homepage:**
 
@@ -136,4 +136,4 @@ At the very least, you must include the following properties in your CSS:
 - Validate each HTML page to make sure that it is correct: https://validator.w3.org/#validate_by_upload. Take screenshots of the results.
 - Validate your CSS code to make sure that it is correct: https://jigsaw.w3.org/css-validator/ for CSS. Take a screenshot of the results.
 
-**You have now completed your exercise but you still need to push your edits to GitHub and submit it in Brightspace. Make sure to follow the instructions in the How to Complete Your Exercises Guide.**
+**You have now completed your exercise but you still need to push your edits to GitHub and submit it in Brightspace. Make sure to follow the instructions in the How to Complete Your Exercises Guide. You will need to submit the screenshots of the HTml and CSS validation results for part 2.**
