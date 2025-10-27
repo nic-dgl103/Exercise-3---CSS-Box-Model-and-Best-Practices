@@ -16,16 +16,18 @@ In part 1, practice working with the CSS box model to create some typical card l
    3. Apply the Google Font called Poppins to the body element. 
    4. Apply the 62.5% trick so that you can easily use the rem unit to define all your font sizes.
    5. Add the following CSS styles to the article element with the class name card-one:
-       * Make the image round by using the border-radius property.
        * Give the card a background colour of `hsl(0, 0%, 100%)`.
        * Make the width of the card 500px.
        * Give the card a 50px margin on all four sides so that it isn't so close to the browser window's edges.
        * Give the card 30px of padding on all four sides so that the content doesn't touch the edges of the card.
        * Round the corners of the card by a 5px radius.
        * Give the card a top border that is 3px thick, solid in style and of the color `hsl(180, 62%, 55%)`.
+       * Give the card a shadow. Go to https://getcssscan.com/css-box-shadow-examples to find a pleasing shadow.
+   6. Style the card's content:
+       * Make the image round by using the border-radius property.
        * Change the colour of the h2 to `hsl(234, 12%, 34%)` and make the text bolder.
        * Change hte colour of the p to `hsl(229, 6%, 66%)`.
-       * Give the card a shadow. Go to https://getcssscan.com/css-box-shadow-examples to find a pleasing shadow.
+
  
  When you are finished the card should look like this: <br />
  ![Image of card one](part_1/images/card-one.png)
